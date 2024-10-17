@@ -91,7 +91,7 @@ This project implements a dynamic web application for Hometeq, an online store s
 
 ### 5. Adding to Basket
 
-- A form on the **prodbuy.php** page allows users to select a quantity of the product to purchase and add it to the basket【7†source】. This form sends data via the `POST` method to the **basket.php** page.
+- A form on the **prodbuy.php** page allows users to select a quantity of the product to purchase and add it to the basket. This form sends data via the `POST` method to the **basket.php** page.
 
   ```php
   echo "<form action='basket.php' method='post'>";
